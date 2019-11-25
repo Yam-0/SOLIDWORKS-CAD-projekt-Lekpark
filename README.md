@@ -1,4 +1,4 @@
-# SOLIDWORKS-Tank av Tage Åkerström TE19A
+# PROJEKT-CAD av Tage Åkerström TE19A
 ## Det här är mitt arbete | CAD projekt: Lekpark.
 
 I den här projektfilen har jag samlat allting kring projektet som bilder, skisser, idéer osv. 
